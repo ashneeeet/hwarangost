@@ -1,0 +1,46 @@
+
+h1 {
+    text-align: center;
+    color:lightblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border:lightblue 20px solid;
+    padding: 50px
+}
+
+pre {
+    text-align: center;
+    font-size: large;
+    font-weight: 200;
+    color:rgb(59, 202, 245);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 10px;
+
+}
+
+a {
+    text-align:center;
+    color: rgb(46, 139, 127);
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    height: 40%;
+    width: 20%;
+
+}
+
+.wholepage {
+    background-color: black;
+}
+
+#pattern {
+    text-align:center
+}
+
+img {
+    height: 20%;
+    width: 20%;
+}
